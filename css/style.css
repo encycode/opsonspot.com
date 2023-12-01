@@ -6382,14 +6382,12 @@ transition:.5s;
 }
 
  .di-small{
-	position:absolute;
-	width:50%;
-	height:50%;
-	top:75%;
-	left:-35%;
-	z-index:-1;
-	
-	
+	position: absolute;
+	width: 40%;
+	height: 40%;
+	top: -20%;
+	left: -30%;
+	z-index: -1;
 }
 
 .di-small-2{
