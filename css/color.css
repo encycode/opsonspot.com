@@ -214,6 +214,9 @@ blockquote.s1{
 div.gradient-prpl {
 	background-color:#ec167f82;
 }
+div.gradient-blue {
+	background-color:#302579a6;
+}
 .service-log{
 	width: 50px !important;
 }
@@ -264,4 +267,7 @@ div.gradient-prpl {
   }
   .footer-logo img {
 	width: 100%;
+  }
+  .stages-icon {
+	height: 5.5rem;
   }
