@@ -5,5 +5,15 @@
   "org.matrix.msc2965.authentication": {
     "issuer": "https://matrix-auth.opsonspot.com/",
     "account": "https://matrix-auth.opsonspot.com/account/"
-  }
+  },
+  "org.matrix.msc4143.rtc_foci": [
+    {
+      "type": "livekit",
+      "livekit_service_url": "https://matrix-rtc-1.opsonspot.com/livekit/jwt"
+    },
+    {
+      "type": "livekit",
+      "livekit_service_url": "https://matrix-rtc-2.opsonspot.com/livekit/jwt"
+    }
+  ]
 }
